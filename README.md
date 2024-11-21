@@ -22,7 +22,7 @@ You can specify the version using:
 
 - Branch name:  `ref: master`
 - Tag: `ref: v0.1.0`
-- Commit hash: `ref: e68a9dd09aa20b8f4e864ae149a797c59fe7d937`
+- Commit hash: `ref: 44eace9c3718e1c5e87a28f6549ba69baf7d9134`
 
 2 From the terminal, run `flutter pub get`.
 
